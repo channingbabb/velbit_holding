@@ -1,0 +1,67 @@
+Velbit Child Safety & Anti-Exploitation Standards
+
+Effective Date: 10/19/2025
+
+Velbit has zero tolerance for child sexual abuse material (CSAM), exploitation, grooming, or any activity that endangers minors. We immediately remove such content, report it to NCMEC (U.S.), and permanently ban offenders.
+
+1. Scope & Definitions
+
+Minor: anyone under 18 (or higher where required).
+
+CSAM: any real or synthetic depiction of a minor in sexual activity or sexualized nudity.
+
+Child sexual exploitation: grooming, solicitation, sexualization, trafficking, or extortion of minors.
+
+2. Prohibited Content & Conduct
+
+CSAM or sexualized depictions of minors.
+
+Grooming, solicitation, or sexual communication with minors.
+
+Sexual comments, bios, hashtags, or links involving minors.
+
+False age claims to contact minors.
+
+Instructions or materials for producing or sharing CSAM.
+Violations = immediate removal and reporting.
+
+3. User Content & Moderation
+
+Provide report and block tools visible on all UGC surfaces.
+
+Review and act on child-safety reports within 24 hours.
+
+Permanently ban repeat offenders.
+
+Keep records of moderation actions for audit.
+
+4. Age Assurance & Minor Experience
+
+Ask for birth date at signup.
+
+No targeted advertising or age-inappropriate ads to minors.
+
+5. Reporting to Authorities
+
+CSAM or exploitation = report to NCMEC and law enforcement.
+
+Preserve evidence as allowed by law and cooperate with investigators.
+
+6. Enforcement & Transparency
+
+Remove content immediately.
+
+Suspend or ban offending accounts.
+
+Publish periodic child-safety stats and policy updates.
+
+7. Training & Vendor Controls
+
+Annual child-safety training for moderators and staff.
+
+Vendors must comply with these standards and confidentiality rules.
+
+User Notice (for Velbit app and site)
+
+Child Safety & Exploitation
+Velbit does not allow content or behavior that sexualizes or exploits children. We remove such content, ban offenders, and report suspected CSAM to NCMEC and law enforcement. If you see anything that puts a child at risk, report it immediately using the in-app Report button.
